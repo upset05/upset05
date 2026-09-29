@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#000000"/>
+  <circle cx="150" cy="150" r="34" fill="#ffffff">
+    <animate attributeName="r" values="34;38;34" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.75;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="240" y="145" fill="#ffffff" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="2">VELTRIX CORE</text>
+  <text x="242" y="195" fill="#a1a1aa" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="26">The AI workspace that learns while you sleep.</text>
+  <text x="242" y="245" fill="#71717a" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="5">BUILT BY THE ACOUNTANT</text>
+</svg>
