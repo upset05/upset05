@@ -3,5 +3,5 @@
    with persistent memory. Follow the build: [@TheVeltrixCore](https://x.com/TheVeltrixCore)
 
    - Frontend dev in Abuja, Nigeria
-   - Teaching robotics and coding with Coderina
+   - Teaching robotics and coding
    - Stack: HTML, CSS, JavaScript, Python, Shopify themes
